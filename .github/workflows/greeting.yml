@@ -11,5 +11,5 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           pr-message: |
             ## Hurray!
-            @{{ github.actor }} looks like this is your first PR👏
+            Looks like this is your first PR👏
             Thanks for contributing and welcome to the community 🎉
